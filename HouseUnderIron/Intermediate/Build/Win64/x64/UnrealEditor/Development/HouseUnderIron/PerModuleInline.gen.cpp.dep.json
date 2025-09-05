@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\houseunderiron\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\intermediate\\build\\win64\\x64\\houseunderironeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\houseunderiron\\definitions.houseunderiron.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

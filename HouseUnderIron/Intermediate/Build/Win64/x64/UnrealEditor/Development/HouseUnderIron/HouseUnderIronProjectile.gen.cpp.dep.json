@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\intermediate\\build\\win64\\unrealeditor\\inc\\houseunderiron\\uht\\houseunderironprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\intermediate\\build\\win64\\x64\\houseunderironeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\houseunderiron\\definitions.houseunderiron.h",
+            "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\source\\houseunderiron\\houseunderironprojectile.h",
+            "c:\\users\\user\\documents\\github\\projetomotores\\houseunderiron\\intermediate\\build\\win64\\unrealeditor\\inc\\houseunderiron\\uht\\houseunderironprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

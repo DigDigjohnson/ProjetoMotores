@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HouseUnderIron",
+			"Path": "..\\Source\\HouseUnderIron.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HouseUnderIronEditor",
+			"Path": "..\\Source\\HouseUnderIronEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
