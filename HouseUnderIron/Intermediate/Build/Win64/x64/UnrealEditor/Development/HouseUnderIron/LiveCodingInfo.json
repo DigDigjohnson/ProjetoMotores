@@ -1,5 +1,13 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.HouseUnderIron.gen.cpp.obj": [
+			"HouseUnderIron.init.gen.cpp.obj",
+			"HouseUnderIronCharacter.gen.cpp.obj",
+			"HouseUnderIronGameMode.gen.cpp.obj",
+			"HouseUnderIronPickUpComponent.gen.cpp.obj",
+			"HouseUnderIronProjectile.gen.cpp.obj",
+			"HouseUnderIronWeaponComponent.gen.cpp.obj"
+		]
 	}
 }

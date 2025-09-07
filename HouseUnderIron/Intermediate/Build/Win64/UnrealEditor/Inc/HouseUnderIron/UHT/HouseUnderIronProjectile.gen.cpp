@@ -6,11 +6,13 @@
 
 #include "UObject/GeneratedCppIncludes.h"
 #include "HouseUnderIron/HouseUnderIronProjectile.h"
-#include "Runtime/Engine/Classes/Engine/HitResult.h"
+#include "Engine/HitResult.h"
+
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
 void EmptyLinkFunctionForGeneratedCodeHouseUnderIronProjectile() {}
 
-// Begin Cross Module References
+// ********** Begin Cross Module References ********************************************************
 COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 ENGINE_API UClass* Z_Construct_UClass_AActor();
 ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
@@ -21,9 +23,9 @@ ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 HOUSEUNDERIRON_API UClass* Z_Construct_UClass_AHouseUnderIronProjectile();
 HOUSEUNDERIRON_API UClass* Z_Construct_UClass_AHouseUnderIronProjectile_NoRegister();
 UPackage* Z_Construct_UPackage__Script_HouseUnderIron();
-// End Cross Module References
+// ********** End Cross Module References **********************************************************
 
-// Begin Class AHouseUnderIronProjectile Function OnHit
+// ********** Begin Class AHouseUnderIronProjectile Function OnHit *********************************
 struct Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics
 {
 	struct HouseUnderIronProjectile_eventOnHit_Parms
@@ -66,7 +68,7 @@ const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_AHouseUnder
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_OtherActor = { "OtherActor", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(HouseUnderIronProjectile_eventOnHit_Parms, OtherActor), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(0, nullptr) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_OtherComp = { "OtherComp", nullptr, (EPropertyFlags)0x0010000000080080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(HouseUnderIronProjectile_eventOnHit_Parms, OtherComp), Z_Construct_UClass_UPrimitiveComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_OtherComp_MetaData), NewProp_OtherComp_MetaData) };
 const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_NormalImpulse = { "NormalImpulse", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(HouseUnderIronProjectile_eventOnHit_Parms, NormalImpulse), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(0, nullptr) };
-const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_Hit = { "Hit", nullptr, (EPropertyFlags)0x0010008008000182, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(HouseUnderIronProjectile_eventOnHit_Parms, Hit), Z_Construct_UScriptStruct_FHitResult, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Hit_MetaData), NewProp_Hit_MetaData) }; // 4100991306
+const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_Hit = { "Hit", nullptr, (EPropertyFlags)0x0010008008000182, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(HouseUnderIronProjectile_eventOnHit_Parms, Hit), Z_Construct_UScriptStruct_FHitResult, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Hit_MetaData), NewProp_Hit_MetaData) }; // 267591329
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_HitComp,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_OtherActor,
@@ -75,7 +77,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_AHouse
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::NewProp_Hit,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::PropPointers) < 2048);
-const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AHouseUnderIronProjectile, nullptr, "OnHit", nullptr, nullptr, Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::PropPointers), sizeof(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::HouseUnderIronProjectile_eventOnHit_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00C20401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::Function_MetaDataParams), Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::Function_MetaDataParams) };
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_AHouseUnderIronProjectile, nullptr, "OnHit", Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::PropPointers), sizeof(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::HouseUnderIronProjectile_eventOnHit_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00C20401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::Function_MetaDataParams), Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::Function_MetaDataParams)},  };
 static_assert(sizeof(Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit_Statics::HouseUnderIronProjectile_eventOnHit_Parms) < MAX_uint16);
 UFunction* Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit()
 {
@@ -98,9 +100,9 @@ DEFINE_FUNCTION(AHouseUnderIronProjectile::execOnHit)
 	P_THIS->OnHit(Z_Param_HitComp,Z_Param_OtherActor,Z_Param_OtherComp,Z_Param_NormalImpulse,Z_Param_Out_Hit);
 	P_NATIVE_END;
 }
-// End Class AHouseUnderIronProjectile Function OnHit
+// ********** End Class AHouseUnderIronProjectile Function OnHit ***********************************
 
-// Begin Class AHouseUnderIronProjectile
+// ********** Begin Class AHouseUnderIronProjectile ************************************************
 void AHouseUnderIronProjectile::StaticRegisterNativesAHouseUnderIronProjectile()
 {
 	UClass* Class = AHouseUnderIronProjectile::StaticClass();
@@ -109,10 +111,34 @@ void AHouseUnderIronProjectile::StaticRegisterNativesAHouseUnderIronProjectile()
 	};
 	FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 }
-IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(AHouseUnderIronProjectile);
+FClassRegistrationInfo Z_Registration_Info_UClass_AHouseUnderIronProjectile;
+UClass* AHouseUnderIronProjectile::GetPrivateStaticClass()
+{
+	using TClass = AHouseUnderIronProjectile;
+	if (!Z_Registration_Info_UClass_AHouseUnderIronProjectile.InnerSingleton)
+	{
+		GetPrivateStaticClassBody(
+			StaticPackage(),
+			TEXT("HouseUnderIronProjectile"),
+			Z_Registration_Info_UClass_AHouseUnderIronProjectile.InnerSingleton,
+			StaticRegisterNativesAHouseUnderIronProjectile,
+			sizeof(TClass),
+			alignof(TClass),
+			TClass::StaticClassFlags,
+			TClass::StaticClassCastFlags(),
+			TClass::StaticConfigName(),
+			(UClass::ClassConstructorType)InternalConstructor<TClass>,
+			(UClass::ClassVTableHelperCtorCallerType)InternalVTableHelperCtorCaller<TClass>,
+			UOBJECT_CPPCLASS_STATICFUNCTIONS_FORCLASS(TClass),
+			&TClass::Super::StaticClass,
+			&TClass::WithinClass::StaticClass
+		);
+	}
+	return Z_Registration_Info_UClass_AHouseUnderIronProjectile.InnerSingleton;
+}
 UClass* Z_Construct_UClass_AHouseUnderIronProjectile_NoRegister()
 {
-	return AHouseUnderIronProjectile::StaticClass();
+	return AHouseUnderIronProjectile::GetPrivateStaticClass();
 }
 struct Z_Construct_UClass_AHouseUnderIronProjectile_Statics
 {
@@ -150,7 +176,7 @@ struct Z_Construct_UClass_AHouseUnderIronProjectile_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit, "OnHit" }, // 2303945789
+		{ &Z_Construct_UFunction_AHouseUnderIronProjectile_OnHit, "OnHit" }, // 3621451173
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -182,7 +208,7 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_AHouseUnderIronProjecti
 	UE_ARRAY_COUNT(FuncInfo),
 	UE_ARRAY_COUNT(Z_Construct_UClass_AHouseUnderIronProjectile_Statics::PropPointers),
 	0,
-	0x008000A4u,
+	0x008001A4u,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AHouseUnderIronProjectile_Statics::Class_MetaDataParams), Z_Construct_UClass_AHouseUnderIronProjectile_Statics::Class_MetaDataParams)
 };
 UClass* Z_Construct_UClass_AHouseUnderIronProjectile()
@@ -193,24 +219,21 @@ UClass* Z_Construct_UClass_AHouseUnderIronProjectile()
 	}
 	return Z_Registration_Info_UClass_AHouseUnderIronProjectile.OuterSingleton;
 }
-template<> HOUSEUNDERIRON_API UClass* StaticClass<AHouseUnderIronProjectile>()
-{
-	return AHouseUnderIronProjectile::StaticClass();
-}
 DEFINE_VTABLE_PTR_HELPER_CTOR(AHouseUnderIronProjectile);
 AHouseUnderIronProjectile::~AHouseUnderIronProjectile() {}
-// End Class AHouseUnderIronProjectile
+// ********** End Class AHouseUnderIronProjectile **************************************************
 
-// Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_Statics
+// ********** Begin Registration *******************************************************************
+struct Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h__Script_HouseUnderIron_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AHouseUnderIronProjectile, AHouseUnderIronProjectile::StaticClass, TEXT("AHouseUnderIronProjectile"), &Z_Registration_Info_UClass_AHouseUnderIronProjectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AHouseUnderIronProjectile), 3722796649U) },
+		{ Z_Construct_UClass_AHouseUnderIronProjectile, AHouseUnderIronProjectile::StaticClass, TEXT("AHouseUnderIronProjectile"), &Z_Registration_Info_UClass_AHouseUnderIronProjectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AHouseUnderIronProjectile), 148648702U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_2100766544(TEXT("/Script/HouseUnderIron"),
-	Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h__Script_HouseUnderIron_89427728(TEXT("/Script/HouseUnderIron"),
+	Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h__Script_HouseUnderIron_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h__Script_HouseUnderIron_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
-// End Registration
+// ********** End Registration *********************************************************************
+
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

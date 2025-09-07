@@ -5,60 +5,67 @@
 ===========================================================================*/
 
 // IWYU pragma: private, include "HouseUnderIronProjectile.h"
-#include "UObject/ObjectMacros.h"
-#include "UObject/ScriptMacros.h"
 
-PRAGMA_DISABLE_DEPRECATION_WARNINGS
-class AActor;
-class UPrimitiveComponent;
-struct FHitResult;
 #ifdef HOUSEUNDERIRON_HouseUnderIronProjectile_generated_h
 #error "HouseUnderIronProjectile.generated.h already included, missing '#pragma once' in HouseUnderIronProjectile.h"
 #endif
 #define HOUSEUNDERIRON_HouseUnderIronProjectile_generated_h
 
-#define FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+class AActor;
+class UPrimitiveComponent;
+struct FHitResult;
+
+// ********** Begin Class AHouseUnderIronProjectile ************************************************
+#define FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnHit);
 
 
-#define FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_INCLASS_NO_PURE_DECLS \
+HOUSEUNDERIRON_API UClass* Z_Construct_UClass_AHouseUnderIronProjectile_NoRegister();
+
+#define FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAHouseUnderIronProjectile(); \
 	friend struct Z_Construct_UClass_AHouseUnderIronProjectile_Statics; \
+	static UClass* GetPrivateStaticClass(); \
+	friend HOUSEUNDERIRON_API UClass* Z_Construct_UClass_AHouseUnderIronProjectile_NoRegister(); \
 public: \
-	DECLARE_CLASS(AHouseUnderIronProjectile, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/HouseUnderIron"), NO_API) \
+	DECLARE_CLASS2(AHouseUnderIronProjectile, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/HouseUnderIron"), Z_Construct_UClass_AHouseUnderIronProjectile_NoRegister) \
 	DECLARE_SERIALIZER(AHouseUnderIronProjectile) \
 	static const TCHAR* StaticConfigName() {return TEXT("Game");} \
 
 
 
-#define FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_ENHANCED_CONSTRUCTORS \
-private: \
-	/** Private move- and copy-constructors, should never be used */ \
-	AHouseUnderIronProjectile(AHouseUnderIronProjectile&&); \
-	AHouseUnderIronProjectile(const AHouseUnderIronProjectile&); \
-public: \
+#define FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_ENHANCED_CONSTRUCTORS \
+	/** Deleted move- and copy-constructors, should never be used */ \
+	AHouseUnderIronProjectile(AHouseUnderIronProjectile&&) = delete; \
+	AHouseUnderIronProjectile(const AHouseUnderIronProjectile&) = delete; \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AHouseUnderIronProjectile); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AHouseUnderIronProjectile); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AHouseUnderIronProjectile) \
 	NO_API virtual ~AHouseUnderIronProjectile();
 
 
-#define FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_12_PROLOG
-#define FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_GENERATED_BODY \
+#define FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_12_PROLOG
+#define FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_ENHANCED_CONSTRUCTORS \
+	FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_INCLASS_NO_PURE_DECLS \
+	FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-template<> HOUSEUNDERIRON_API UClass* StaticClass<class AHouseUnderIronProjectile>();
+class AHouseUnderIronProjectile;
+
+// ********** End Class AHouseUnderIronProjectile **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h
-
+#define CURRENT_FILE_ID FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronProjectile_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

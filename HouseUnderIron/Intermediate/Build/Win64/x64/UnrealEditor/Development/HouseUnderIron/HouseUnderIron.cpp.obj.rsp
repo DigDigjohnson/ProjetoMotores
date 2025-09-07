@@ -1,17 +1,17 @@
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Source\HouseUnderIron\HouseUnderIron.cpp"
-/FI"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\HouseUnderIronEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\Definitions.HouseUnderIron.h"
-/Yu"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\HouseUnderIronEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\HouseUnderIronEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIron.cpp.obj"
-/experimental:log "C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIron.cpp.sarif"
-/sourceDependencies "C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIron.cpp.dep.json"
-@"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIron.Shared.rsp"
-/d2ssa-cfg-question-
+"E:/Github/ProjetoMotores/HouseUnderIron/Source/HouseUnderIron/HouseUnderIron.cpp"
+@"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIron.Shared.rsp"
+/FI"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/HouseUnderIronEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h"
+/FI"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/Definitions.HouseUnderIron.h"
+/Yu"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/HouseUnderIronEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h"
+/Fp"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/HouseUnderIronEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h.pch"
+/Fo"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIron.cpp.obj"
+/experimental:log "E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIron.cpp.sarif"
+/sourceDependencies "E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIron.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
 /FC
+/diagnostics:caret
 /c
 /Gw
 /Gy
@@ -39,15 +39,14 @@
 /fp:fast
 /Zo
 /Zp8
+/W4
 /we4456
 /we4458
 /we4459
-/we4668
 /wd4244
 /wd4838
 /TP
 /GR-
-/W4
 /std:c++20
 /Zc:preprocessor
 /wd5054

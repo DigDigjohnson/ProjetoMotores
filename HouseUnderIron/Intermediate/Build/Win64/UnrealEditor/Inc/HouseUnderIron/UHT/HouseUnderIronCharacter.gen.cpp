@@ -6,10 +6,12 @@
 
 #include "UObject/GeneratedCppIncludes.h"
 #include "HouseUnderIron/HouseUnderIronCharacter.h"
+
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
 void EmptyLinkFunctionForGeneratedCodeHouseUnderIronCharacter() {}
 
-// Begin Cross Module References
+// ********** Begin Cross Module References ********************************************************
 ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_USkeletalMeshComponent_NoRegister();
@@ -18,16 +20,40 @@ ENHANCEDINPUT_API UClass* Z_Construct_UClass_UInputMappingContext_NoRegister();
 HOUSEUNDERIRON_API UClass* Z_Construct_UClass_AHouseUnderIronCharacter();
 HOUSEUNDERIRON_API UClass* Z_Construct_UClass_AHouseUnderIronCharacter_NoRegister();
 UPackage* Z_Construct_UPackage__Script_HouseUnderIron();
-// End Cross Module References
+// ********** End Cross Module References **********************************************************
 
-// Begin Class AHouseUnderIronCharacter
+// ********** Begin Class AHouseUnderIronCharacter *************************************************
 void AHouseUnderIronCharacter::StaticRegisterNativesAHouseUnderIronCharacter()
 {
 }
-IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(AHouseUnderIronCharacter);
+FClassRegistrationInfo Z_Registration_Info_UClass_AHouseUnderIronCharacter;
+UClass* AHouseUnderIronCharacter::GetPrivateStaticClass()
+{
+	using TClass = AHouseUnderIronCharacter;
+	if (!Z_Registration_Info_UClass_AHouseUnderIronCharacter.InnerSingleton)
+	{
+		GetPrivateStaticClassBody(
+			StaticPackage(),
+			TEXT("HouseUnderIronCharacter"),
+			Z_Registration_Info_UClass_AHouseUnderIronCharacter.InnerSingleton,
+			StaticRegisterNativesAHouseUnderIronCharacter,
+			sizeof(TClass),
+			alignof(TClass),
+			TClass::StaticClassFlags,
+			TClass::StaticClassCastFlags(),
+			TClass::StaticConfigName(),
+			(UClass::ClassConstructorType)InternalConstructor<TClass>,
+			(UClass::ClassVTableHelperCtorCallerType)InternalVTableHelperCtorCaller<TClass>,
+			UOBJECT_CPPCLASS_STATICFUNCTIONS_FORCLASS(TClass),
+			&TClass::Super::StaticClass,
+			&TClass::WithinClass::StaticClass
+		);
+	}
+	return Z_Registration_Info_UClass_AHouseUnderIronCharacter.InnerSingleton;
+}
 UClass* Z_Construct_UClass_AHouseUnderIronCharacter_NoRegister()
 {
-	return AHouseUnderIronCharacter::StaticClass();
+	return AHouseUnderIronCharacter::GetPrivateStaticClass();
 }
 struct Z_Construct_UClass_AHouseUnderIronCharacter_Statics
 {
@@ -151,7 +177,7 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_AHouseUnderIronCharacte
 	0,
 	UE_ARRAY_COUNT(Z_Construct_UClass_AHouseUnderIronCharacter_Statics::PropPointers),
 	0,
-	0x008000A4u,
+	0x008001A4u,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AHouseUnderIronCharacter_Statics::Class_MetaDataParams), Z_Construct_UClass_AHouseUnderIronCharacter_Statics::Class_MetaDataParams)
 };
 UClass* Z_Construct_UClass_AHouseUnderIronCharacter()
@@ -162,24 +188,21 @@ UClass* Z_Construct_UClass_AHouseUnderIronCharacter()
 	}
 	return Z_Registration_Info_UClass_AHouseUnderIronCharacter.OuterSingleton;
 }
-template<> HOUSEUNDERIRON_API UClass* StaticClass<AHouseUnderIronCharacter>()
-{
-	return AHouseUnderIronCharacter::StaticClass();
-}
 DEFINE_VTABLE_PTR_HELPER_CTOR(AHouseUnderIronCharacter);
 AHouseUnderIronCharacter::~AHouseUnderIronCharacter() {}
-// End Class AHouseUnderIronCharacter
+// ********** End Class AHouseUnderIronCharacter ***************************************************
 
-// Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h_Statics
+// ********** Begin Registration *******************************************************************
+struct Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h__Script_HouseUnderIron_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AHouseUnderIronCharacter, AHouseUnderIronCharacter::StaticClass, TEXT("AHouseUnderIronCharacter"), &Z_Registration_Info_UClass_AHouseUnderIronCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AHouseUnderIronCharacter), 100815985U) },
+		{ Z_Construct_UClass_AHouseUnderIronCharacter, AHouseUnderIronCharacter::StaticClass, TEXT("AHouseUnderIronCharacter"), &Z_Registration_Info_UClass_AHouseUnderIronCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AHouseUnderIronCharacter), 3688036460U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h_2292773027(TEXT("/Script/HouseUnderIron"),
-	Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h__Script_HouseUnderIron_1266523554(TEXT("/Script/HouseUnderIron"),
+	Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h__Script_HouseUnderIron_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronCharacter_h__Script_HouseUnderIron_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
-// End Registration
+// ********** End Registration *********************************************************************
+
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

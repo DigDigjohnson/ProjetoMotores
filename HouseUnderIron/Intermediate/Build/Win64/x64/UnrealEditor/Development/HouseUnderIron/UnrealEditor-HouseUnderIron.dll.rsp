@@ -1,5 +1,4 @@
-/MANIFEST:EMBED
-/MANIFESTINPUT:"..\Build\Windows\Resources\Default-Win64.manifest"
+/MANIFEST:NO
 /NOLOGO
 /DEBUG:FULL
 /errorReport:prompt
@@ -21,9 +20,9 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
+/LIBPATH:"E:/Visual Studio/VC/Tools/MSVC/14.44.35207/lib/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/ucrt/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/um/x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -36,26 +35,22 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\HouseUnderIronEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIron.init.gen.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronCharacter.gen.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronGameMode.gen.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronPickUpComponent.gen.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronProjectile.gen.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronWeaponComponent.gen.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIron.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronCharacter.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronGameMode.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronPickUpComponent.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronProjectile.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\HouseUnderIronWeaponComponent.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\PerModuleInline.gen.cpp.obj"
-"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Intermediate\Build\Win64\x64\UnrealEditor\Development\HouseUnderIron\Default.rc2.res"
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
-"..\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnhancedInput\UnrealEditor-EnhancedInput.lib"
+/NOEXP
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/HouseUnderIronEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/Module.HouseUnderIron.gen.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIron.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIronCharacter.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIronGameMode.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIronPickUpComponent.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIronProjectile.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/HouseUnderIronWeaponComponent.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/PerModuleInline.gen.cpp.obj"
+"E:/Github/ProjetoMotores/HouseUnderIron/Intermediate/Build/Win64/x64/UnrealEditor/Development/HouseUnderIron/Default.rc2.res"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/InputCore/UnrealEditor-InputCore.lib"
+"../Plugins/EnhancedInput/Intermediate/Build/Win64/x64/UnrealEditor/Development/EnhancedInput/UnrealEditor-EnhancedInput.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -81,6 +76,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Binaries\Win64\UnrealEditor-HouseUnderIron.dll"
-/PDB:"C:\Users\User\Documents\GitHub\ProjetoMotores\HouseUnderIron\Binaries\Win64\UnrealEditor-HouseUnderIron.pdb"
+/OUT:"E:/Github/ProjetoMotores/HouseUnderIron/Binaries/Win64/UnrealEditor-HouseUnderIron.dll"
+/PDB:"E:/Github/ProjetoMotores/HouseUnderIron/Binaries/Win64/UnrealEditor-HouseUnderIron.pdb"
 /ignore:4078

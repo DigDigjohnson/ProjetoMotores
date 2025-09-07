@@ -6,10 +6,12 @@
 
 #include "UObject/GeneratedCppIncludes.h"
 #include "HouseUnderIron/HouseUnderIronWeaponComponent.h"
+
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
 void EmptyLinkFunctionForGeneratedCodeHouseUnderIronWeaponComponent() {}
 
-// Begin Cross Module References
+// ********** Begin Cross Module References ********************************************************
 COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
@@ -23,9 +25,9 @@ HOUSEUNDERIRON_API UClass* Z_Construct_UClass_AHouseUnderIronProjectile_NoRegist
 HOUSEUNDERIRON_API UClass* Z_Construct_UClass_UHouseUnderIronWeaponComponent();
 HOUSEUNDERIRON_API UClass* Z_Construct_UClass_UHouseUnderIronWeaponComponent_NoRegister();
 UPackage* Z_Construct_UPackage__Script_HouseUnderIron();
-// End Cross Module References
+// ********** End Cross Module References **********************************************************
 
-// Begin Class UHouseUnderIronWeaponComponent Function AttachWeapon
+// ********** Begin Class UHouseUnderIronWeaponComponent Function AttachWeapon *********************
 struct Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics
 {
 	struct HouseUnderIronWeaponComponent_eventAttachWeapon_Parms
@@ -62,7 +64,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UHouse
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::NewProp_ReturnValue,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::PropPointers) < 2048);
-const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UHouseUnderIronWeaponComponent, nullptr, "AttachWeapon", nullptr, nullptr, Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::PropPointers), sizeof(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::HouseUnderIronWeaponComponent_eventAttachWeapon_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::Function_MetaDataParams) };
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_UHouseUnderIronWeaponComponent, nullptr, "AttachWeapon", Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::PropPointers), sizeof(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::HouseUnderIronWeaponComponent_eventAttachWeapon_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::Function_MetaDataParams)},  };
 static_assert(sizeof(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon_Statics::HouseUnderIronWeaponComponent_eventAttachWeapon_Parms) < MAX_uint16);
 UFunction* Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon()
 {
@@ -81,9 +83,9 @@ DEFINE_FUNCTION(UHouseUnderIronWeaponComponent::execAttachWeapon)
 	*(bool*)Z_Param__Result=P_THIS->AttachWeapon(Z_Param_TargetCharacter);
 	P_NATIVE_END;
 }
-// End Class UHouseUnderIronWeaponComponent Function AttachWeapon
+// ********** End Class UHouseUnderIronWeaponComponent Function AttachWeapon ***********************
 
-// Begin Class UHouseUnderIronWeaponComponent Function EndPlay
+// ********** Begin Class UHouseUnderIronWeaponComponent Function EndPlay **************************
 struct Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics
 {
 	struct HouseUnderIronWeaponComponent_eventEndPlay_Parms
@@ -113,7 +115,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UHouse
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::NewProp_EndPlayReason,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::PropPointers) < 2048);
-const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UHouseUnderIronWeaponComponent, nullptr, "EndPlay", nullptr, nullptr, Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::PropPointers), sizeof(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::HouseUnderIronWeaponComponent_eventEndPlay_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080400, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::Function_MetaDataParams) };
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_UHouseUnderIronWeaponComponent, nullptr, "EndPlay", Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::PropPointers), sizeof(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::HouseUnderIronWeaponComponent_eventEndPlay_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080400, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::Function_MetaDataParams)},  };
 static_assert(sizeof(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay_Statics::HouseUnderIronWeaponComponent_eventEndPlay_Parms) < MAX_uint16);
 UFunction* Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay()
 {
@@ -132,9 +134,9 @@ DEFINE_FUNCTION(UHouseUnderIronWeaponComponent::execEndPlay)
 	P_THIS->EndPlay(EEndPlayReason::Type(Z_Param_EndPlayReason));
 	P_NATIVE_END;
 }
-// End Class UHouseUnderIronWeaponComponent Function EndPlay
+// ********** End Class UHouseUnderIronWeaponComponent Function EndPlay ****************************
 
-// Begin Class UHouseUnderIronWeaponComponent Function Fire
+// ********** Begin Class UHouseUnderIronWeaponComponent Function Fire *****************************
 struct Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics
 {
 #if WITH_METADATA
@@ -151,7 +153,7 @@ struct Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FFunctionParams FuncParams;
 };
-const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UHouseUnderIronWeaponComponent, nullptr, "Fire", nullptr, nullptr, nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics::Function_MetaDataParams) };
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_UHouseUnderIronWeaponComponent, nullptr, "Fire", nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire_Statics::Function_MetaDataParams)},  };
 UFunction* Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire()
 {
 	static UFunction* ReturnFunction = nullptr;
@@ -168,9 +170,9 @@ DEFINE_FUNCTION(UHouseUnderIronWeaponComponent::execFire)
 	P_THIS->Fire();
 	P_NATIVE_END;
 }
-// End Class UHouseUnderIronWeaponComponent Function Fire
+// ********** End Class UHouseUnderIronWeaponComponent Function Fire *******************************
 
-// Begin Class UHouseUnderIronWeaponComponent
+// ********** Begin Class UHouseUnderIronWeaponComponent *******************************************
 void UHouseUnderIronWeaponComponent::StaticRegisterNativesUHouseUnderIronWeaponComponent()
 {
 	UClass* Class = UHouseUnderIronWeaponComponent::StaticClass();
@@ -181,10 +183,34 @@ void UHouseUnderIronWeaponComponent::StaticRegisterNativesUHouseUnderIronWeaponC
 	};
 	FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 }
-IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(UHouseUnderIronWeaponComponent);
+FClassRegistrationInfo Z_Registration_Info_UClass_UHouseUnderIronWeaponComponent;
+UClass* UHouseUnderIronWeaponComponent::GetPrivateStaticClass()
+{
+	using TClass = UHouseUnderIronWeaponComponent;
+	if (!Z_Registration_Info_UClass_UHouseUnderIronWeaponComponent.InnerSingleton)
+	{
+		GetPrivateStaticClassBody(
+			StaticPackage(),
+			TEXT("HouseUnderIronWeaponComponent"),
+			Z_Registration_Info_UClass_UHouseUnderIronWeaponComponent.InnerSingleton,
+			StaticRegisterNativesUHouseUnderIronWeaponComponent,
+			sizeof(TClass),
+			alignof(TClass),
+			TClass::StaticClassFlags,
+			TClass::StaticClassCastFlags(),
+			TClass::StaticConfigName(),
+			(UClass::ClassConstructorType)InternalConstructor<TClass>,
+			(UClass::ClassVTableHelperCtorCallerType)InternalVTableHelperCtorCaller<TClass>,
+			UOBJECT_CPPCLASS_STATICFUNCTIONS_FORCLASS(TClass),
+			&TClass::Super::StaticClass,
+			&TClass::WithinClass::StaticClass
+		);
+	}
+	return Z_Registration_Info_UClass_UHouseUnderIronWeaponComponent.InnerSingleton;
+}
 UClass* Z_Construct_UClass_UHouseUnderIronWeaponComponent_NoRegister()
 {
-	return UHouseUnderIronWeaponComponent::StaticClass();
+	return UHouseUnderIronWeaponComponent::GetPrivateStaticClass();
 }
 struct Z_Construct_UClass_UHouseUnderIronWeaponComponent_Statics
 {
@@ -270,9 +296,9 @@ struct Z_Construct_UClass_UHouseUnderIronWeaponComponent_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon, "AttachWeapon" }, // 4132432913
-		{ &Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay, "EndPlay" }, // 430916377
-		{ &Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire, "Fire" }, // 4186078332
+		{ &Z_Construct_UFunction_UHouseUnderIronWeaponComponent_AttachWeapon, "AttachWeapon" }, // 849401204
+		{ &Z_Construct_UFunction_UHouseUnderIronWeaponComponent_EndPlay, "EndPlay" }, // 395526529
+		{ &Z_Construct_UFunction_UHouseUnderIronWeaponComponent_Fire, "Fire" }, // 4213644479
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -323,24 +349,21 @@ UClass* Z_Construct_UClass_UHouseUnderIronWeaponComponent()
 	}
 	return Z_Registration_Info_UClass_UHouseUnderIronWeaponComponent.OuterSingleton;
 }
-template<> HOUSEUNDERIRON_API UClass* StaticClass<UHouseUnderIronWeaponComponent>()
-{
-	return UHouseUnderIronWeaponComponent::StaticClass();
-}
 DEFINE_VTABLE_PTR_HELPER_CTOR(UHouseUnderIronWeaponComponent);
 UHouseUnderIronWeaponComponent::~UHouseUnderIronWeaponComponent() {}
-// End Class UHouseUnderIronWeaponComponent
+// ********** End Class UHouseUnderIronWeaponComponent *********************************************
 
-// Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h_Statics
+// ********** Begin Registration *******************************************************************
+struct Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h__Script_HouseUnderIron_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UHouseUnderIronWeaponComponent, UHouseUnderIronWeaponComponent::StaticClass, TEXT("UHouseUnderIronWeaponComponent"), &Z_Registration_Info_UClass_UHouseUnderIronWeaponComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHouseUnderIronWeaponComponent), 3667172997U) },
+		{ Z_Construct_UClass_UHouseUnderIronWeaponComponent, UHouseUnderIronWeaponComponent::StaticClass, TEXT("UHouseUnderIronWeaponComponent"), &Z_Registration_Info_UClass_UHouseUnderIronWeaponComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHouseUnderIronWeaponComponent), 3021513776U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h_2463626250(TEXT("/Script/HouseUnderIron"),
-	Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_User_Documents_GitHub_ProjetoMotores_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h__Script_HouseUnderIron_3712208236(TEXT("/Script/HouseUnderIron"),
+	Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h__Script_HouseUnderIron_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HouseUnderIron_Source_HouseUnderIron_HouseUnderIronWeaponComponent_h__Script_HouseUnderIron_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
-// End Registration
+// ********** End Registration *********************************************************************
+
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

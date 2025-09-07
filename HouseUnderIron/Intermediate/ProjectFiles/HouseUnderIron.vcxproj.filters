@@ -11,6 +11,7 @@
     <None Include="..\..\Source\HouseUnderIronEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\Japanese_Furniture.png" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -38,38 +39,38 @@
     <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIron.cpp">
       <Filter>Source\HouseUnderIron</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIron.h">
+    <ClInclude Include="..\..\Source\HouseUnderIron\HouseUnderIron.h">
       <Filter>Source\HouseUnderIron</Filter>
-    </ClCompile>
+    </ClInclude>
     <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronCharacter.cpp">
       <Filter>Source\HouseUnderIron</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronCharacter.h">
+    <ClInclude Include="..\..\Source\HouseUnderIron\HouseUnderIronCharacter.h">
       <Filter>Source\HouseUnderIron</Filter>
-    </ClCompile>
+    </ClInclude>
     <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronGameMode.cpp">
       <Filter>Source\HouseUnderIron</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronGameMode.h">
+    <ClInclude Include="..\..\Source\HouseUnderIron\HouseUnderIronGameMode.h">
       <Filter>Source\HouseUnderIron</Filter>
-    </ClCompile>
+    </ClInclude>
     <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronPickUpComponent.cpp">
       <Filter>Source\HouseUnderIron</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronPickUpComponent.h">
+    <ClInclude Include="..\..\Source\HouseUnderIron\HouseUnderIronPickUpComponent.h">
       <Filter>Source\HouseUnderIron</Filter>
-    </ClCompile>
+    </ClInclude>
     <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronProjectile.cpp">
       <Filter>Source\HouseUnderIron</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronProjectile.h">
+    <ClInclude Include="..\..\Source\HouseUnderIron\HouseUnderIronProjectile.h">
       <Filter>Source\HouseUnderIron</Filter>
-    </ClCompile>
+    </ClInclude>
     <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronWeaponComponent.cpp">
       <Filter>Source\HouseUnderIron</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\HouseUnderIron\HouseUnderIronWeaponComponent.h">
+    <ClInclude Include="..\..\Source\HouseUnderIron\HouseUnderIronWeaponComponent.h">
       <Filter>Source\HouseUnderIron</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
