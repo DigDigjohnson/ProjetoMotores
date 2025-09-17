@@ -3016,3 +3016,777 @@ FPackageName: Skipped package /Game/ConferenceRoom/Textures/T_Сeiling_set/T_Сe
 [2025.09.17-00.01.31:693][610]AssetCheck: /Game/LevelPrototyping/Meshes/SM_ChamferCube Validating asset
 [2025.09.17-00.01.31:694][610]AssetCheck: /Game/LevelPrototyping/Meshes/SM_SM_ChamferCube Validating asset
 [2025.09.17-00.01.31:711][610]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/Github/ProjetoMotores/HouseUnderIron/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.17-00.05.32:916][740]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6924.098633
+[2025.09.17-00.05.33:916][743]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-00.05.33:916][743]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6924.763672, Update Interval: 313.645447
+[2025.09.17-00.07.42:840][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.17-00.07.42:843][785]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.033
+[2025.09.17-00.07.42:843][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.07.42:843][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.07.42:856][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC_Auto5
+[2025.09.17-00.07.42:856][785]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC_Auto53EB13EDF4B8868989F5033830C733641.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/Autosaves/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC_Auto5.uasset'
+[2025.09.17-00.07.42:857][785]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.09.17-00.07.50:930][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.17-00.07.51:853][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.07.51:907][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.07.51:907][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.07.51:907][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.07.51:920][850]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.07.51:920][850]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPCAE6F38C1401579ADF6B3C4B34379B103.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.07.51:928][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.393 ms (total: 2.31 sec)
+[2025.09.17-00.07.51:972][850]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.07.51:972][850]LogContentValidation: Enabled validators:
+[2025.09.17-00.07.51:972][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.07.51:972][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.07.51:972][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.07.51:972][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.07.51:972][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.07.51:972][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.07.51:972][850]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.08.08:388][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.17-00.08.09:277][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.08.09:305][887]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.08.09:305][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.08.09:305][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.08.09:317][887]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.08.09:317][887]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC42AEC223485CBE501050DB98D55B3EA3.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.08.09:325][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.090 ms (total: 2.36 sec)
+[2025.09.17-00.08.09:371][887]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.08.09:371][887]LogContentValidation: Enabled validators:
+[2025.09.17-00.08.09:371][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.08.09:371][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.08.09:371][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.08.09:371][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.08.09:371][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.08.09:371][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.08.09:371][887]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.08.59:530][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.17-00.09.00:569][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.09.00:602][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.09.00:603][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.09.00:603][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.09.00:616][986]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.09.00:617][986]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPCD30651D14278B9872329B99545239608.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.09.00:624][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.840 ms (total: 2.42 sec)
+[2025.09.17-00.09.00:668][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.09.00:668][986]LogContentValidation: Enabled validators:
+[2025.09.17-00.09.00:668][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.09.00:668][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.09.00:668][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.09.00:668][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.09.00:668][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.09.00:668][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.09.00:668][986]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.11.18:343][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7269.496094
+[2025.09.17-00.11.18:551][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-00.11.18:551][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7269.695801, Update Interval: 302.556244
+[2025.09.17-00.12.03:662][470]LogDerivedDataCache: C:/Users/Heepo Arthur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.17-00.12.06:287][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.17-00.12.06:916][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.12.06:945][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.12.06:945][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.12.06:945][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.12.06:961][839]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.12.06:962][839]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPCED5D0DD0450FA4172820BCB5E66F3EE2.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.12.06:970][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.969 ms (total: 2.47 sec)
+[2025.09.17-00.12.07:012][839]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.12.07:012][839]LogContentValidation: Enabled validators:
+[2025.09.17-00.12.07:012][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.12.07:012][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.12.07:012][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.12.07:012][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.12.07:012][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.12.07:012][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.12.07:012][839]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.12.21:063][194]LogSlate: Took 0.010675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.17-00.13.16:266][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.17-00.13.16:953][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.13.17:011][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.13.17:011][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.13.17:011][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.13.17:026][899]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.13.17:027][899]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC8754BA0A407223ADD99C71AF6B418C16.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.13.17:035][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.099 ms (total: 2.55 sec)
+[2025.09.17-00.13.17:074][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.13.17:074][899]LogContentValidation: Enabled validators:
+[2025.09.17-00.13.17:074][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.13.17:074][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.13.17:074][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.13.17:074][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.13.17:074][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.13.17:074][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.13.17:074][899]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.14.40:797][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.17-00.14.41:278][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.14.41:321][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.14.41:321][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.14.41:321][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.14.41:335][671]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.14.41:335][671]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC9205957D4C8C061BFB6869A93BAE4E11.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.14.41:343][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.950 ms (total: 2.62 sec)
+[2025.09.17-00.14.41:406][671]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.14.41:406][671]LogContentValidation: Enabled validators:
+[2025.09.17-00.14.41:407][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.14.41:407][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.14.41:407][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.14.41:407][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.14.41:407][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.14.41:407][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.14.41:407][671]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.15.25:263][612]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.17-00.15.25:519][625]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.17-00.15.25:726][632]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.17-00.17.09:851][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7621.045410
+[2025.09.17-00.17.10:052][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-00.17.10:052][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7621.238281, Update Interval: 336.464722
+[2025.09.17-00.17.37:714][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.09.17-00.17.38:394][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.17.38:447][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.17.38:447][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.17.38:447][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.17.38:465][682]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.17.38:465][682]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPCA4C4999545BB57B72AF75E93C3654F01.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.17.38:473][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.966 ms (total: 2.70 sec)
+[2025.09.17-00.17.38:529][682]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.17.38:529][682]LogContentValidation: Enabled validators:
+[2025.09.17-00.17.38:529][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.17.38:529][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.17.38:529][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.17.38:529][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.17.38:529][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.17.38:529][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.17.38:530][682]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.20.19:438][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.17-00.20.19:441][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.031
+[2025.09.17-00.20.19:441][451]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.20.19:442][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.20.19:459][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC_Auto6
+[2025.09.17-00.20.19:459][451]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC_Auto6636546EC480E3C728B3F7981D6EE21F9.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/Autosaves/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC_Auto6.uasset'
+[2025.09.17-00.20.19:460][451]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.09.17-00.22.54:191][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.17-00.22.54:885][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.22.54:936][761]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.22.54:936][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.22.54:936][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.22.54:952][761]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.22.54:953][761]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPCBD7D6506411E0B5C1BED2588783CF0FA.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.22.54:962][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.379 ms (total: 2.77 sec)
+[2025.09.17-00.22.55:017][761]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.22.55:019][761]LogContentValidation: Enabled validators:
+[2025.09.17-00.22.55:019][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.22.55:019][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.22.55:019][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.22.55:019][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.22.55:019][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.22.55:019][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.22.55:019][761]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.23.17:352][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.23.17:403][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.23.17:403][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.23.17:403][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.23.17:421][ 64]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.23.17:422][ 64]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC70EDE3DA4C1008DF6B11A2ABF70DE0E5.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.23.17:430][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.333 ms (total: 2.85 sec)
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: Enabled validators:
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.23.17:482][ 64]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.23.17:482][ 64]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.23.18:094][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.17-00.23.18:763][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.23.18:814][190]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.23.18:814][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.23.18:814][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.23.18:832][190]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.23.18:832][190]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC9826B7F74621B4CD765B62B864066101.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.23.18:841][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.884 ms (total: 2.93 sec)
+[2025.09.17-00.23.18:882][190]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.23.18:882][190]LogContentValidation: Enabled validators:
+[2025.09.17-00.23.18:882][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.23.18:882][190]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.23.18:882][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.23.18:882][190]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.23.18:882][190]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.23.18:882][190]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.23.18:882][190]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.23.43:765][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8015.010254
+[2025.09.17-00.23.43:978][540]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-00.23.43:978][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8015.214355, Update Interval: 326.437561
+[2025.09.17-00.23.44:593][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.17-00.23.45:150][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.23.45:198][669]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.23.45:198][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.23.45:198][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.23.45:217][669]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.23.45:218][669]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPC5F0D587340B1B7D34B42B3BFD28AE246.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.23.45:225][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.371 ms (total: 3.00 sec)
+[2025.09.17-00.23.45:283][669]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.23.45:283][669]LogContentValidation: Enabled validators:
+[2025.09.17-00.23.45:283][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.23.45:283][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.23.45:283][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.23.45:283][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.23.45:283][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.23.45:283][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.23.45:283][669]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.25.44:504][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.25.44:562][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.25.44:562][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC]
+[2025.09.17-00.25.44:562][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.25.44:572][813]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC
+[2025.09.17-00.25.44:573][813]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BB_SuperAgressive_NPCEE9F305F43F7C0060DD998893F413B6E.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC.uasset'
+[2025.09.17-00.25.44:580][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.944 ms (total: 3.08 sec)
+[2025.09.17-00.25.44:627][813]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.25.44:627][813]LogContentValidation: Enabled validators:
+[2025.09.17-00.25.44:627][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.25.44:627][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.25.44:627][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.25.44:627][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.25.44:627][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.25.44:627][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.25.44:627][813]AssetCheck: /Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC Validating asset
+[2025.09.17-00.28.06:449][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.28.06:503][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.28.06:503][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC]
+[2025.09.17-00.28.06:503][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.28.06:514][541]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC
+[2025.09.17-00.28.06:514][541]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BT_SuperAgressive_NPCE973E0944CDDC80D4EBA5BB78B8777E3.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset'
+[2025.09.17-00.28.06:522][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.921 ms (total: 3.15 sec)
+[2025.09.17-00.28.06:569][541]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.28.06:569][541]LogContentValidation: Enabled validators:
+[2025.09.17-00.28.06:569][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.28.06:569][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.28.06:569][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.28.06:569][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.28.06:569][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.28.06:569][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.28.06:569][541]AssetCheck: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC Validating asset
+[2025.09.17-00.28.42:862][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.28.42:920][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.28.42:920][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC]
+[2025.09.17-00.28.42:920][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.28.42:932][649]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC
+[2025.09.17-00.28.42:932][649]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BT_SuperAgressive_NPCF6980D52433881D8C39197B7B5B2F0FC.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset'
+[2025.09.17-00.28.42:939][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.763 ms (total: 3.23 sec)
+[2025.09.17-00.28.43:003][649]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.28.43:003][649]LogContentValidation: Enabled validators:
+[2025.09.17-00.28.43:003][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.28.43:003][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.28.43:003][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.28.43:003][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.28.43:003][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.28.43:003][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.28.43:003][649]AssetCheck: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC Validating asset
+[2025.09.17-00.28.47:635][192]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.17-00.28.47:646][192]LogContentBundle: [FirstPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.17-00.28.47:646][192]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.09.17-00.28.47:647][192]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.270 ms (total: 13.690 ms)
+[2025.09.17-00.28.47:652][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-00.28.47:652][192]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.28.47:663][192]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.17-00.28.47:665][192]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.092 ms (total: 22.903 ms)
+[2025.09.17-00.28.47:666][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013268s)
+[2025.09.17-00.28.47:666][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.013299s)
+[2025.09.17-00.28.47:721][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.17-00.28.47:724][192]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.09.17-00.28.47:725][192]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.17-00.28.47:725][192]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.17-00.28.47:725][192]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.17-00.28.47:725][192]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.17-00.28.47:727][192]LogWorldPartition: Display: WorldPartition initialize took 2.662 ms (total: 7.76 sec)
+[2025.09.17-00.28.47:727][192]LogPlayLevel: PIE: World Init took: (0.004753s)
+[2025.09.17-00.28.47:728][192]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.09.17-00.28.47:728][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-00.28.47:728][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-00.28.47:728][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-00.28.47:728][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-00.28.47:728][192]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-00.28.47:728][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-00.28.47:728][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-00.28.47:728][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-00.28.47:728][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-00.28.47:728][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-00.28.47:728][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-00.28.47:731][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-00.28.47:743][192]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (JBL Tune 520BT)
+[2025.09.17-00.28.47:743][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-00.28.47:743][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-00.28.47:743][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-00.28.47:744][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.09.17-00.28.47:744][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.09.17-00.28.47:746][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.09.17-00.28.47:746][192]LogInit: FAudioDevice initialized with ID 12.
+[2025.09.17-00.28.47:746][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.09.17-00.28.47:746][192]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2025.09.17-00.28.47:746][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.17-00.28.47:750][192]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.17-00.28.47:755][192]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.09.16-21.28.47
+[2025.09.17-00.28.47:757][192]LogWorld: Bringing up level for play took: 0.006174
+[2025.09.17-00.28.47:759][192]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.09.17-00.28.47:762][192]PIE: Server logged in
+[2025.09.17-00.28.47:764][192]PIE: Play in editor total start time 0,118 seconds.
+[2025.09.17-00.28.47:823][193]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-00.29.14:910][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.29.14:910][363]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.29.14:910][363]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.17-00.29.14:910][363]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-00.29.14:911][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.29.14:912][363]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.09.17-00.29.14:915][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-00.29.14:919][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.29.14:943][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.29.14:943][363]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.17-00.29.14:943][363]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.09.17-00.29.14:945][363]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.09.17-00.29.14:952][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.17-00.29.14:991][364]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.09.17-00.29.17:404][469]LogContentBundle: [FirstPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.17-00.29.17:405][469]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.09.17-00.29.17:406][469]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.685 ms (total: 15.376 ms)
+[2025.09.17-00.29.17:410][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-00.29.17:410][469]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.29.17:421][469]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.17-00.29.17:423][469]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.101 ms (total: 25.004 ms)
+[2025.09.17-00.29.17:423][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013021s)
+[2025.09.17-00.29.17:423][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.013049s)
+[2025.09.17-00.29.17:446][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.17-00.29.17:448][469]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.09.17-00.29.17:450][469]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.17-00.29.17:450][469]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.17-00.29.17:450][469]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.17-00.29.17:450][469]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.17-00.29.17:452][469]LogWorldPartition: Display: WorldPartition initialize took 2.570 ms (total: 7.76 sec)
+[2025.09.17-00.29.17:453][469]LogPlayLevel: PIE: World Init took: (0.004245s)
+[2025.09.17-00.29.17:454][469]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.09.17-00.29.17:454][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-00.29.17:454][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-00.29.17:454][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-00.29.17:454][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-00.29.17:454][469]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-00.29.17:454][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-00.29.17:454][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-00.29.17:454][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-00.29.17:454][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-00.29.17:454][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-00.29.17:454][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-00.29.17:455][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-00.29.17:468][469]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (JBL Tune 520BT)
+[2025.09.17-00.29.17:468][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-00.29.17:468][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-00.29.17:468][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-00.29.17:469][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.09.17-00.29.17:469][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.09.17-00.29.17:471][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.09.17-00.29.17:471][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.09.17-00.29.17:471][469]LogInit: FAudioDevice initialized with ID 13.
+[2025.09.17-00.29.17:471][469]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2025.09.17-00.29.17:471][469]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.17-00.29.17:475][469]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.17-00.29.17:479][469]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.09.16-21.29.17
+[2025.09.17-00.29.17:479][469]LogWorld: Bringing up level for play took: 0.004911
+[2025.09.17-00.29.17:481][469]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.09.17-00.29.17:483][469]PIE: Server logged in
+[2025.09.17-00.29.17:485][469]PIE: Play in editor total start time 0,081 seconds.
+[2025.09.17-00.29.17:519][470]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-00.29.39:020][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.29.39:020][832]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.29.39:020][832]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.17-00.29.39:021][832]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-00.29.39:022][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.29.39:022][832]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.09.17-00.29.39:024][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-00.29.39:029][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.29.39:052][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.29.39:053][832]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.17-00.29.39:053][832]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.09.17-00.29.39:056][832]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.09.17-00.29.39:064][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.17-00.29.39:138][833]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.09.17-00.29.39:650][866]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.17-00.29.39:661][866]LogContentBundle: [FirstPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.17-00.29.39:661][866]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.09.17-00.29.39:662][866]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.075 ms (total: 16.451 ms)
+[2025.09.17-00.29.39:666][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-00.29.39:666][866]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.29.39:676][866]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.17-00.29.39:678][866]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.062 ms (total: 27.066 ms)
+[2025.09.17-00.29.39:678][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012636s)
+[2025.09.17-00.29.39:678][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.012660s)
+[2025.09.17-00.29.39:701][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.17-00.29.39:704][866]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.09.17-00.29.39:705][866]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.17-00.29.39:705][866]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.17-00.29.39:705][866]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.17-00.29.39:705][866]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.17-00.29.39:708][866]LogWorldPartition: Display: WorldPartition initialize took 2.783 ms (total: 7.76 sec)
+[2025.09.17-00.29.39:708][866]LogPlayLevel: PIE: World Init took: (0.004478s)
+[2025.09.17-00.29.39:709][866]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.09.17-00.29.39:709][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-00.29.39:709][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-00.29.39:709][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-00.29.39:709][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-00.29.39:709][866]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-00.29.39:709][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-00.29.39:709][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-00.29.39:709][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-00.29.39:709][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-00.29.39:709][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-00.29.39:709][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-00.29.39:711][866]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-00.29.39:722][866]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (JBL Tune 520BT)
+[2025.09.17-00.29.39:722][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-00.29.39:722][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-00.29.39:722][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-00.29.39:724][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.09.17-00.29.39:724][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.09.17-00.29.39:725][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.09.17-00.29.39:725][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.09.17-00.29.39:725][866]LogInit: FAudioDevice initialized with ID 14.
+[2025.09.17-00.29.39:725][866]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2025.09.17-00.29.39:725][866]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.17-00.29.39:728][866]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.17-00.29.39:733][866]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.09.16-21.29.39
+[2025.09.17-00.29.39:733][866]LogWorld: Bringing up level for play took: 0.004640
+[2025.09.17-00.29.39:735][866]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.09.17-00.29.39:738][866]PIE: Server logged in
+[2025.09.17-00.29.39:740][866]PIE: Play in editor total start time 0,079 seconds.
+[2025.09.17-00.29.39:788][867]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-00.29.45:181][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8376.250977
+[2025.09.17-00.29.45:372][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-00.29.45:372][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8376.433594, Update Interval: 337.574402
+[2025.09.17-00.30.04:889][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.30.04:889][779]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.30.04:889][779]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.17-00.30.04:890][779]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-00.30.04:891][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.30.04:891][779]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.09.17-00.30.04:894][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-00.30.04:898][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.30.04:924][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.30.04:925][779]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.17-00.30.04:925][779]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.09.17-00.30.04:927][779]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.09.17-00.30.04:935][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.09.17-00.30.05:006][780]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.09.17-00.31.53:522][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.17-00.31.54:132][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.31.54:192][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC] ([2] browsable assets)...
+[2025.09.17-00.31.54:192][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC]
+[2025.09.17-00.31.54:192][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.31.54:212][154]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC
+[2025.09.17-00.31.54:212][154]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/AI_SuperAgressive_NPCA9CDA06F406811A45C7F5EA1872FC5CC.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC.uasset'
+[2025.09.17-00.31.54:220][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.432 ms (total: 3.32 sec)
+[2025.09.17-00.31.54:275][154]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.31.54:275][154]LogContentValidation: Enabled validators:
+[2025.09.17-00.31.54:275][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.31.54:275][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.31.54:275][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.31.54:275][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.31.54:275][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.31.54:275][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.31.54:275][154]AssetCheck: /Game/IA/SuperAgressive_NPC/AI_SuperAgressive_NPC Validating asset
+[2025.09.17-00.31.59:772][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.17-00.31.59:783][538]LogContentBundle: [FirstPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.17-00.31.59:783][538]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.09.17-00.31.59:784][538]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.133 ms (total: 17.585 ms)
+[2025.09.17-00.31.59:788][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-00.31.59:788][538]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.31.59:798][538]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.17-00.31.59:800][538]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.027 ms (total: 29.094 ms)
+[2025.09.17-00.31.59:800][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012380s)
+[2025.09.17-00.31.59:800][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.012407s)
+[2025.09.17-00.31.59:822][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.17-00.31.59:825][538]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.09.17-00.31.59:826][538]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.17-00.31.59:826][538]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.17-00.31.59:826][538]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.17-00.31.59:826][538]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.17-00.31.59:830][538]LogWorldPartition: Display: WorldPartition initialize took 2.471 ms (total: 7.77 sec)
+[2025.09.17-00.31.59:830][538]LogPlayLevel: PIE: World Init took: (0.004030s)
+[2025.09.17-00.31.59:830][538]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.09.17-00.31.59:830][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-00.31.59:830][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-00.31.59:830][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-00.31.59:830][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-00.31.59:830][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-00.31.59:830][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-00.31.59:830][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-00.31.59:830][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-00.31.59:830][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-00.31.59:830][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-00.31.59:830][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-00.31.59:832][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-00.31.59:845][538]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (JBL Tune 520BT)
+[2025.09.17-00.31.59:845][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-00.31.59:845][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-00.31.59:845][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-00.31.59:845][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.09.17-00.31.59:845][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.09.17-00.31.59:848][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.09.17-00.31.59:848][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.09.17-00.31.59:848][538]LogInit: FAudioDevice initialized with ID 15.
+[2025.09.17-00.31.59:848][538]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2025.09.17-00.31.59:848][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.17-00.31.59:852][538]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.17-00.31.59:856][538]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.09.16-21.31.59
+[2025.09.17-00.31.59:857][538]LogWorld: Bringing up level for play took: 0.004800
+[2025.09.17-00.31.59:859][538]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.09.17-00.31.59:861][538]PIE: Server logged in
+[2025.09.17-00.31.59:863][538]PIE: Play in editor total start time 0,081 seconds.
+[2025.09.17-00.31.59:908][539]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-00.32.36:379][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.32.36:379][830]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.32.36:379][830]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.17-00.32.36:379][830]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-00.32.36:381][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.32.36:381][830]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.09.17-00.32.36:384][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-00.32.36:390][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.32.36:412][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.32.36:413][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.17-00.32.36:413][830]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.09.17-00.32.36:415][830]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.09.17-00.32.36:421][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.17-00.32.36:490][831]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.09.17-00.35.25:546][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.35.25:618][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.35.25:619][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC]
+[2025.09.17-00.35.25:619][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.35.25:628][888]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC
+[2025.09.17-00.35.25:628][888]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BB_SuperAgressive_NPC5CBBF32341E6D3CD28C505A4D587CB5E.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC.uasset'
+[2025.09.17-00.35.25:637][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.469 ms (total: 3.41 sec)
+[2025.09.17-00.35.25:685][888]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.35.25:685][888]LogContentValidation: Enabled validators:
+[2025.09.17-00.35.25:685][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.35.25:685][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.35.25:685][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.35.25:685][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.35.25:685][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.35.25:685][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.35.25:685][888]AssetCheck: /Game/IA/SuperAgressive_NPC/BB_SuperAgressive_NPC Validating asset
+[2025.09.17-00.36.21:630][427]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8772.661133
+[2025.09.17-00.36.21:837][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-00.36.21:838][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8772.860352, Update Interval: 347.744385
+[2025.09.17-00.36.39:996][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.36.40:047][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.36.40:047][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC]
+[2025.09.17-00.36.40:047][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.36.40:059][163]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC
+[2025.09.17-00.36.40:060][163]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BT_SuperAgressive_NPC0C9CCF214D8FE50200063D8F21BE6649.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset'
+[2025.09.17-00.36.40:068][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.893 ms (total: 3.48 sec)
+[2025.09.17-00.36.40:128][163]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.36.40:128][163]LogContentValidation: Enabled validators:
+[2025.09.17-00.36.40:128][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.36.40:128][163]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.36.40:128][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.36.40:128][163]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.36.40:128][163]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.36.40:128][163]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.36.40:129][163]AssetCheck: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC Validating asset
+[2025.09.17-00.37.27:225][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.37.27:260][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.37.27:260][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC]
+[2025.09.17-00.37.27:260][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.37.27:272][931]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC
+[2025.09.17-00.37.27:274][931]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BT_SuperAgressive_NPC5D6293AB4AF8A3D80B5BFF9BFCEADACE.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset'
+[2025.09.17-00.37.27:280][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.736 ms (total: 3.54 sec)
+[2025.09.17-00.37.27:328][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.37.27:328][931]LogContentValidation: Enabled validators:
+[2025.09.17-00.37.27:328][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.37.27:328][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.37.27:328][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.37.27:328][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.37.27:328][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.37.27:328][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.37.27:328][931]AssetCheck: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC Validating asset
+[2025.09.17-00.38.01:697][128]Cmd: TRANSACTION UNDO
+[2025.09.17-00.38.01:697][128]LogEditorTransaction: Undo Edit Selected Key Name
+[2025.09.17-00.38.02:191][137]Cmd: TRANSACTION UNDO
+[2025.09.17-00.38.02:191][137]LogEditorTransaction: Undo Edit Selected Key ID
+[2025.09.17-00.38.02:648][185]Cmd: TRANSACTION UNDO
+[2025.09.17-00.38.02:648][185]LogEditorTransaction: Undo Add Node
+[2025.09.17-00.38.27:394][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.38.27:441][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.38.27:441][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC]
+[2025.09.17-00.38.27:441][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.38.27:455][856]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC
+[2025.09.17-00.38.27:456][856]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BT_SuperAgressive_NPC2B5E391B4D4E618D4986359214B59A1A.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset'
+[2025.09.17-00.38.27:463][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.769 ms (total: 3.61 sec)
+[2025.09.17-00.38.27:527][856]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.38.27:527][856]LogContentValidation: Enabled validators:
+[2025.09.17-00.38.27:527][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.38.27:527][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.38.27:527][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.38.27:527][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.38.27:527][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.38.27:527][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.38.27:527][856]AssetCheck: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC Validating asset
+[2025.09.17-00.38.49:585][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.38.49:646][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC] ([1] browsable assets)...
+[2025.09.17-00.38.49:646][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC]
+[2025.09.17-00.38.49:646][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC" FILE="E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset" SILENT=true
+[2025.09.17-00.38.49:656][247]LogSavePackage: Moving output files for package: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC
+[2025.09.17-00.38.49:658][247]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/BT_SuperAgressive_NPC0A99BCE14B3B8F3982865F895AB7F0A8.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC.uasset'
+[2025.09.17-00.38.49:664][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.766 ms (total: 3.69 sec)
+[2025.09.17-00.38.49:706][247]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-00.38.49:706][247]LogContentValidation: Enabled validators:
+[2025.09.17-00.38.49:706][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.38.49:706][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.38.49:706][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.38.49:706][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.38.49:706][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.38.49:706][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.38.49:706][247]AssetCheck: /Game/IA/SuperAgressive_NPC/BT_SuperAgressive_NPC Validating asset
+[2025.09.17-00.39.45:860][968]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2025.09.17-00.39.45:861][968]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2025.09.17-00.39.45:861][968]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+[2025.09.17-00.39.46:762][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.17-00.39.46:765][ 59]LogEditorActor: Deleted 0 Actors (0.073 secs)
+[2025.09.17-00.39.46:769][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2025.09.17-00.39.46:769][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2025.09.17-00.39.46:771][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3F5702FA48F02_1937803368
+[2025.09.17-00.39.55:735][930]LogStreaming: Display: FlushAsyncLoading(794): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.17-00.39.55:736][930]LogStaticMesh: Display: Building static mesh SM_Ramp (Required Memory Estimate: 0.020414 MB)...
+[2025.09.17-00.39.55:738][930]LogStaticMesh: Adjacency [0.00s], tris: 8, UVs 2
+[2025.09.17-00.39.55:738][930]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.17-00.39.55:738][930]LogStaticMesh: Leaves [0.00s]
+[2025.09.17-00.39.55:738][930]LogStaticMesh: Reduce [0.00s]
+[2025.09.17-00.39.55:738][930]LogStaticMesh: Fallback [0.00s], num tris: 8
+[2025.09.17-00.39.55:738][930]LogStaticMesh: ConstrainClusters:
+[2025.09.17-00.39.55:738][930]LogStaticMesh:   Input: 1 Clusters, 8 Triangles and 18 Vertices
+[2025.09.17-00.39.55:738][930]LogStaticMesh:   Output without splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2025.09.17-00.39.55:738][930]LogStaticMesh:   Output with splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2025.09.17-00.39.55:738][930]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.17-00.39.55:738][930]LogStaticMesh: WritePages:
+[2025.09.17-00.39.55:738][930]LogStaticMesh:   Root: GPU size: 416 bytes. 1 Pages. 416.000 bytes per page (1.270% utilization).
+[2025.09.17-00.39.55:738][930]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.17-00.39.55:738][930]LogStaticMesh:   Page data disk size: 592 bytes. Fixup data size: 24 bytes.
+[2025.09.17-00.39.55:738][930]LogStaticMesh:   Total GPU size: 416 bytes, Total disk size: 616 bytes.
+[2025.09.17-00.39.55:738][930]LogStaticMesh: Encode [0.00s]
+[2025.09.17-00.39.55:738][930]LogStaticMesh: NaniteBuild [0.00s]
+[2025.09.17-00.39.55:739][930]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2025.09.17-00.39.55:893][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2025.09.17-00.39.55:893][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2025.09.17-00.39.55:893][932]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1
+[2025.09.17-00.39.58:314][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.17-00.39.58:316][176]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.09.17-00.39.58:320][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2025.09.17-00.39.58:320][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2025.09.17-00.39.58:322][176]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3F5702FA48F02_1949354369
+[2025.09.17-00.40.39:227][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.09.17-00.40.39:241][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/M4/LO7HC30VRWG75APYCE3ZGD_Auto7
+[2025.09.17-00.40.39:241][533]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/LO7HC30VRWG75APYCE3ZGD_Auto7CEB262804AC6F9745D7F45B2CE6658A1.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/M4/LO7HC30VRWG75APYCE3ZGD_Auto7.uasset'
+[2025.09.17-00.40.39:249][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/72/6H1R4O386OLSYAQ6O33LPP_Auto7
+[2025.09.17-00.40.39:249][533]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/6H1R4O386OLSYAQ6O33LPP_Auto7C4B685FD4846B0410FB08D898FA77F44.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/72/6H1R4O386OLSYAQ6O33LPP_Auto7.uasset'
+[2025.09.17-00.40.39:258][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KZ/1RN5NE0KZIV9BE08ZLUXHP_Auto7
+[2025.09.17-00.40.39:258][533]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/1RN5NE0KZIV9BE08ZLUXHP_Auto7C2F78BAB4CB4F1FF2A3C99932047203B.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KZ/1RN5NE0KZIV9BE08ZLUXHP_Auto7.uasset'
+[2025.09.17-00.40.39:259][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.058
+[2025.09.17-00.40.39:259][533]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2025.09.17-00.41.27:037][573]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.09.17-00.41.27:037][573]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.09.17-00.41.27:037][573]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4
+[2025.09.17-00.41.28:242][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.17-00.41.28:244][699]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.09.17-00.41.28:248][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.09.17-00.41.28:249][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.09.17-00.41.28:250][699]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3F5702FA48F02_2039283370
+[2025.09.17-00.41.37:621][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-00.41.37:661][715]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/M4/LO7HC30VRWG75APYCE3ZGD
+[2025.09.17-00.41.37:661][715]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/LO7HC30VRWG75APYCE3ZGD87E8238749D194D0198790A975F2E28E.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/M4/LO7HC30VRWG75APYCE3ZGD.uasset'
+[2025.09.17-00.41.37:671][715]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/72/6H1R4O386OLSYAQ6O33LPP
+[2025.09.17-00.41.37:671][715]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/6H1R4O386OLSYAQ6O33LPPE8D3F00448CA03C692B536A525C72D6F.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/72/6H1R4O386OLSYAQ6O33LPP.uasset'
+[2025.09.17-00.41.37:678][715]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KZ/1RN5NE0KZIV9BE08ZLUXHP
+[2025.09.17-00.41.37:678][715]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/1RN5NE0KZIV9BE08ZLUXHP9AA9A6294851F37FA5C949BE02AE4067.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KZ/1RN5NE0KZIV9BE08ZLUXHP.uasset'
+[2025.09.17-00.41.37:686][715]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/24/FT9ATCCVPA4J8E0Z5VL55D
+[2025.09.17-00.41.37:686][715]LogSavePackage: Moving 'E:/Github/ProjetoMotores/HouseUnderIron/Saved/FT9ATCCVPA4J8E0Z5VL55D68A9D77847E7858B1387CD96483ABEA2.tmp' to 'E:/Github/ProjetoMotores/HouseUnderIron/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/24/FT9ATCCVPA4J8E0Z5VL55D.uasset'
+[2025.09.17-00.41.37:696][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.867 ms (total: 3.76 sec)
+[2025.09.17-00.41.37:749][715]LogContentValidation: Display: Starting to validate 4 assets
+[2025.09.17-00.41.37:749][715]LogContentValidation: Enabled validators:
+[2025.09.17-00.41.37:749][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-00.41.37:749][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-00.41.37:749][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-00.41.37:749][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-00.41.37:749][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-00.41.37:749][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-00.41.37:749][715]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.09.17-00.41.37:784][715]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/Github/ProjetoMotores/HouseUnderIron/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.17-00.41.41:059][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.17-00.41.41:070][100]LogContentBundle: [FirstPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.17-00.41.41:070][100]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.09.17-00.41.41:071][100]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.139 ms (total: 18.725 ms)
+[2025.09.17-00.41.41:076][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-00.41.41:076][100]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.41.41:087][100]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.17-00.41.41:089][100]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.075 ms (total: 31.169 ms)
+[2025.09.17-00.41.41:089][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012943s)
+[2025.09.17-00.41.41:089][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.012973s)
+[2025.09.17-00.41.41:113][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.17-00.41.41:116][100]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.09.17-00.41.41:118][100]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.17-00.41.41:118][100]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.17-00.41.41:118][100]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.17-00.41.41:118][100]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.17-00.41.41:121][100]LogWorldPartition: Display: WorldPartition initialize took 2.607 ms (total: 7.77 sec)
+[2025.09.17-00.41.41:121][100]LogPlayLevel: PIE: World Init took: (0.004311s)
+[2025.09.17-00.41.41:121][100]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.09.17-00.41.41:121][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-00.41.41:121][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-00.41.41:121][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-00.41.41:121][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-00.41.41:121][100]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-00.41.41:122][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-00.41.41:122][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-00.41.41:122][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-00.41.41:122][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-00.41.41:122][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-00.41.41:122][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-00.41.41:124][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-00.41.41:137][100]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (JBL Tune 520BT)
+[2025.09.17-00.41.41:137][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-00.41.41:137][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-00.41.41:137][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-00.41.41:138][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.09.17-00.41.41:138][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.09.17-00.41.41:140][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.09.17-00.41.41:140][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.09.17-00.41.41:140][100]LogInit: FAudioDevice initialized with ID 16.
+[2025.09.17-00.41.41:140][100]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2025.09.17-00.41.41:140][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.17-00.41.41:144][100]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.17-00.41.41:148][100]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.09.16-21.41.41
+[2025.09.17-00.41.41:148][100]LogWorld: Bringing up level for play took: 0.005015
+[2025.09.17-00.41.41:150][100]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.09.17-00.41.41:154][100]PIE: Server logged in
+[2025.09.17-00.41.41:155][100]PIE: Play in editor total start time 0,086 seconds.
+[2025.09.17-00.41.41:251][101]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-00.42.13:339][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.42.13:339][870]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.09.17-00.42.13:339][870]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.17-00.42.13:339][870]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-00.42.13:340][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.42.13:340][870]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.09.17-00.42.13:344][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-00.42.13:349][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-00.42.13:374][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-00.42.13:374][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.17-00.42.13:374][870]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.09.17-00.42.13:376][870]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.09.17-00.42.13:382][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.17-00.42.13:416][871]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.09.17-00.42.56:197][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9166.985352
+[2025.09.17-00.42.57:199][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-00.42.57:199][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9167.652344, Update Interval: 326.977753
